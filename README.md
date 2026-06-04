@@ -221,11 +221,15 @@ exit
 </div>
 <div>
   <h3> In conclussion</h3>
-  <p>All the PCs in each department are able to get ip addresses from the DHCP server using their defaul gateay configured
-  PCs in different Vlans can communicate with each other. 
+  <p>All the PCs in each department are able to get ip addresses from the DHCP server using their default gateway configured.
+  PCs in different Vlans can communicate with each other too. In the pictures below, computers in Finance Department and Customer Service are able to get ip addresses from DHCP server and it shows shows PC in Finance communicating with PC in Customer Service.
   </p>
   <h4>Topology</h4>
   <img src="images\ping and dhcp.png" alt="ping">
+  <p>  
+  
+  </p>
+  <img src="images\Admin PC.png" alt="ping">
 </div>
   
  
