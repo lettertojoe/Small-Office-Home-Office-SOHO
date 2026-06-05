@@ -220,6 +220,7 @@ exit
   </details>
 </div>
 <div>
+  <!--This is great-->
   <h3> In conclussion</h3>
   <p>All the PCs in each department are able to get ip addresses from the DHCP server using their default gateway configured.
   PCs in different Vlans can communicate with each other too. In the pictures below, computers in Finance Department and Customer Service are able to get ip addresses from DHCP server and it shows shows PC in Finance communicating with PC in Customer Service.
